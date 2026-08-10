@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-bonusami-i-frispinami.github.io
+Sitemap: https://kazino-s-bonusami-i-frispinami.github.io/sitemap.xml
